@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HiSeats- A ticketing app using React](https://github.com/tinotendamukudu/HiSeats-Ticketing-App)
 
-- 🌱 I’m currently learning **Next.js, TypeScript and Three.js for building interactive web experiences.**
+- 🌱 I’m currently learning **Next.js and TypeScript for building interactive web experiences.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tinotendamukudu](https://github.com/tinotendamukudu)
 

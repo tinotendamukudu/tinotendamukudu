@@ -10,8 +10,7 @@
 ![HiSeats - Payments](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/payments.png)  
 ![HiSeats - Profile](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/profile.png)  
 ![HiSeats - Help Center](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/help%20center.png) 
-
-🖥️ **[Live Site](https://your-project-link.com)**  
+ 
 📂 **[GitHub Repo](https://github.com/tinotendamukudu/HiSeats-Ticketing-App)**  
 
 #### **Description:**  

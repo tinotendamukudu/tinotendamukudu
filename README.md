@@ -43,8 +43,6 @@
 📂 **[GitHub Repo](https://github.com/tinotendamukudu/Forbella-eJournal-Platform)**  
 📌 **Description:** A modern digital journal platform designed to store and manage academic content.  
 
-[![Forbella eJournal Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=Forbella-eJournal-Platform&theme=radical)](https://github.com/tinotendamukudu/Forbella-eJournal-Platform)  
-
 ---
 
 ### **🏅 National Medical Excellence Awards**  
@@ -52,8 +50,7 @@
 ![Medical Excellence Awards Screenshot](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/assets/preview.png)  
 🖥️ **[Live Site](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/)**  
 
-[![Medical Excellence Awards Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=National-Excellence-Enterprises-Site&theme=tokyonight)](https://github.com/tinotendamukudu/National-Excellence-Enterprises-Site)  
-
+ 
 
 ---
 
@@ -63,9 +60,6 @@
 🖥️ **[Live Site](https://tinotendamukudu.github.io/national-choir-clash/index.html)**  
 📂 **[GitHub Repo](https://github.com/tinotendamukudu/national-choir-clash)**  
 📌 **Description:** A web platform for showcasing and celebrating national choir competitions. The site features event details, participating choirs, live voting (if applicable), and competition results, bringing the power of choral music to audiences nationwide.  
-
-[![Choir Clash Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=national-choir-clash&theme=merko)](https://github.com/tinotendamukudu/national-choir-clash)
-  
 
 
 <h3 align="left">Connect with me:</h3>

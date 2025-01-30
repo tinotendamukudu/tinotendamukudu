@@ -13,6 +13,59 @@
 
 - ⚡ Fun fact **I can center a div on the first try... sometimes! 😆**
 
+## **🚀 Featured Projects**  
+
+### **🌍 iZone Devs**  
+[![iZone Devs](https://img.shields.io/badge/-iZone_Developers-blue?style=for-the-badge)](https://izonedevs.co.zw/)  
+🖥️ **[Live App](https://izonedevs.co.zw/)**  
+📌 **Description:** A professional platform for developers and tech enthusiasts to connect and collaborate.  
+
+---
+
+### **🏆 National Schools Excellence Awards**  
+[![National Schools Awards](https://img.shields.io/badge/-National_Schools_Awards-gold?style=for-the-badge)](https://nationalschoolsexcellenceawards.co.zw/)  
+🖥️ **[Live App](https://nationalschoolsexcellenceawards.co.zw/)**  
+📌 **Description:** A platform recognizing outstanding schools and educators through a prestigious awards system.  
+
+---
+
+### **💧 Magoche Drilling**  
+[![Magoche Drilling](https://img.shields.io/badge/-Magoche_Drilling-green?style=for-the-badge)](https://magochedrilling.co.zw/)  
+🖥️ **[Live Site](https://magochedrilling.co.zw/)**  
+📌 **Description:** A business website for a borehole drilling company offering professional services in Zimbabwe.  
+
+---
+
+### **📚 Forbella eJournal Platform**  
+[![Forbella eJournal](https://img.shields.io/badge/-Forbella_eJournal-blueviolet?style=for-the-badge)](https://tinotendamukudu.github.io/Forbella-eJournal-Platform/)  
+![Forbella Screenshot](https://tinotendamukudu.github.io/Forbella-eJournal-Platform/assets/preview.png)  
+🖥️ **[Live Site](https://tinotendamukudu.github.io/Forbella-eJournal-Platform/)**  
+📂 **[GitHub Repo](https://github.com/tinotendamukudu/Forbella-eJournal-Platform)**  
+📌 **Description:** A modern digital journal platform designed to store and manage academic content.  
+
+[![Forbella eJournal Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=Forbella-eJournal-Platform&theme=radical)](https://github.com/tinotendamukudu/Forbella-eJournal-Platform)  
+
+---
+
+### **🏅 National Excellence Enterprises**  
+[![National Excellence Enterprises](https://img.shields.io/badge/-National_Excellence_Enterprises-red?style=for-the-badge)](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/)  
+![NEE Screenshot](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/assets/preview.png)  
+🖥️ **[Live Site](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/)**  
+📂 **[GitHub Repo](https://github.com/tinotendamukudu/National-Excellence-Enterprises-Site)**  
+
+[![NEE Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=National-Excellence-Enterprises-Site&theme=tokyonight)](https://github.com/tinotendamukudu/National-Excellence-Enterprises-Site)  
+
+---
+
+### **🎶 National Choir Clash**  
+[![National Choir Clash](https://img.shields.io/badge/-Choir_Clash-ff69b4?style=for-the-badge)](https://tinotendamukudu.github.io/national-choir-clash/index.html)  
+![Choir Clash Screenshot](https://tinotendamukudu.github.io/national-choir-clash/assets/preview.png)  
+🖥️ **[Live Site](https://tinotendamukudu.github.io/national-choir-clash/index.html)**  
+📂 **[GitHub Repo](https://github.com/tinotendamukudu/national-choir-clash)**  
+
+[![Choir Clash Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=national-choir-clash&theme=merko)](https://github.com/tinotendamukudu/national-choir-clash)  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moses mukudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moses mukudu" height="30" width="40" /></a>
@@ -24,3 +77,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tinotendamukudu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tinotendamukudu" /></a></p><br><br>
+
+

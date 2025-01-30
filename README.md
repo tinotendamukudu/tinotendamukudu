@@ -4,12 +4,12 @@
 ### **🚀 My Current Project: HiSeats - A Ticketing App Using React**  
 
 ![HiSeats - Home](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/home.png)  
-![HiSeats - Create Event](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/create%20event.png)     
-![HiSeats - Orders](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/orders.png)  
-![HiSeats - Orders 2](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/orders-2.png)  
-![HiSeats - Payments](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/payments.png)  
-![HiSeats - Profile](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/profile.png)  
-![HiSeats - Help Center](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/help%20center.png) 
+![HiSeats - Create Event](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/create%20event.png)     
+![HiSeats - Orders](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/orders.png)  
+![HiSeats - Orders 2](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudumain/orders-2.png)  
+![HiSeats - Payments](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/payments.png)  
+![HiSeats - Profile](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/profile.png)  
+![HiSeats - Help Center](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/help%20center.png) 
 
 🖥️ **[Live Site](https://your-project-link.com)**  
 📂 **[GitHub Repo](https://github.com/tinotendamukudu/HiSeats-Ticketing-App)**  

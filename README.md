@@ -3,7 +3,7 @@
 
 ### **🚀 My Current Project: HiSeats - A Ticketing App Using React**  
 
-![HiSeats - Home](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/home.png)  
+![HiSeats - Home](https://raw.githubusercontent.com/tinotendamukudu/tinotendamukudu/main/home.png)  
 ![HiSeats - Create Event](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/create%20event.png)     
 ![HiSeats - Orders](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/orders.png)  
 ![HiSeats - Orders 2](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/orders-2.png)  

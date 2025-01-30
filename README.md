@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Moses T Mukudu</h1>
 <h3 align="center">A passionate website developer from Zimbabwe</h3>
 
-- 🔭 I’m currently working on [HiSeats- A ticketing app using React](https://github.com/tinotendamukudu/HiSeats-Ticketing-App)
+### **🚀 My Current Project: HiSeats - A Ticketing App Using React**  
+
+![HiSeats - Home](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/home.png)  
+![HiSeats - Create Event](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/create%20event.png)     
+![HiSeats - Orders](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/orders.png)  
+![HiSeats - Orders 2](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/orders-2.png)  
+![HiSeats - Payments](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/payments.png)  
+![HiSeats - Profile](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/profile.png)  
+![HiSeats - Help Center](https://raw.githubusercontent.com/tinotendamukudu/your-repo-name/main/help%20center.png) 
+
+🖥️ **[Live Site](https://your-project-link.com)**  
+📂 **[GitHub Repo](https://github.com/tinotendamukudu/HiSeats-Ticketing-App)**  
+
+#### **Description:**  
+A ticketing app built with React that allows users to purchase tickets, create events, manage orders and make payments. The app features a responsive design and an easy-to-use interface for managing and purchasing event tickets.
 
 - 🌱 I’m currently learning **Next.js and TypeScript for building interactive web experiences.**
 

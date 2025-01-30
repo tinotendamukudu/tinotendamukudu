@@ -47,23 +47,25 @@
 
 ---
 
-### **🏅 National Excellence Enterprises**  
-[![National Excellence Enterprises](https://img.shields.io/badge/-National_Excellence_Enterprises-red?style=for-the-badge)](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/)  
-![NEE Screenshot](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/assets/preview.png)  
+### **🏅 National Medical Excellence Awards**  
+[![National Medical Excellence Awards](https://img.shields.io/badge/-Medical_Excellence_Awards-red?style=for-the-badge)](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/)  
+![Medical Excellence Awards Screenshot](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/assets/preview.png)  
 🖥️ **[Live Site](https://tinotendamukudu.github.io/National-Excellence-Enterprises-Site/)**  
-📂 **[GitHub Repo](https://github.com/tinotendamukudu/National-Excellence-Enterprises-Site)**  
 
-[![NEE Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=National-Excellence-Enterprises-Site&theme=tokyonight)](https://github.com/tinotendamukudu/National-Excellence-Enterprises-Site)  
+[![Medical Excellence Awards Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=National-Excellence-Enterprises-Site&theme=tokyonight)](https://github.com/tinotendamukudu/National-Excellence-Enterprises-Site)  
+
 
 ---
 
 ### **🎶 National Choir Clash**  
 [![National Choir Clash](https://img.shields.io/badge/-Choir_Clash-ff69b4?style=for-the-badge)](https://tinotendamukudu.github.io/national-choir-clash/index.html)  
-![Choir Clash Screenshot](https://tinotendamukudu.github.io/national-choir-clash/assets/preview.png)  
+![National Choir Clash Screenshot](https://tinotendamukudu.github.io/national-choir-clash/assets/preview.png)  
 🖥️ **[Live Site](https://tinotendamukudu.github.io/national-choir-clash/index.html)**  
 📂 **[GitHub Repo](https://github.com/tinotendamukudu/national-choir-clash)**  
+📌 **Description:** A web platform for showcasing and celebrating national choir competitions. The site features event details, participating choirs, live voting (if applicable), and competition results, bringing the power of choral music to audiences nationwide.  
 
-[![Choir Clash Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=national-choir-clash&theme=merko)](https://github.com/tinotendamukudu/national-choir-clash)  
+[![Choir Clash Repo](https://github-readme-stats.vercel.app/api/pin/?username=tinotendamukudu&repo=national-choir-clash&theme=merko)](https://github.com/tinotendamukudu/national-choir-clash)
+  
 
 
 <h3 align="left">Connect with me:</h3>
